@@ -1,0 +1,9 @@
+Config: adicionar configuracao a classe, permitindo configurar globalmente atraves da classe e localmente atraves da instancia.
+Dependency Injection: github Pimple, twittee
+Iterator Helpers
+Reflection Helpers
+Converters: toArray, toXml, toJson, toDom
+Dirty: verificar se o model foi modificado, quais propriedades e quais foram as alteracoes
+Hashie: https://github.com/intridea/hashie
+
+
